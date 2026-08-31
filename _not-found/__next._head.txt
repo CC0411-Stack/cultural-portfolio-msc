@@ -2,6 +2,6 @@
 2:I[46193,["/_next/static/chunks/268833786b937530.js","/_next/static/chunks/f8f36408546f1f33.js"],"ViewportBoundary"]
 4:I[46193,["/_next/static/chunks/268833786b937530.js","/_next/static/chunks/f8f36408546f1f33.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"cNgkJDrxYnhakYsNb3IeL","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+0:{"buildId":"mhsh8QIokyIOWa_7yENme","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"马世聪 · 文化创意设计实践 CULTURAL DESIGN 2026"}],["$","meta","1",{"name":"description","content":"文化创意设计作品集：序 INTRO / 卷一 FILM 诺兰电影展文创 / 卷二 CULTURE 兴教寺文化文创 / 卷三 READING 一页之间 / 附录 VISUAL 综合视觉设计"}]]
